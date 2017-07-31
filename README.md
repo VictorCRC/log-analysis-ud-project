@@ -1,6 +1,7 @@
 # Log Analysis Project
 ## About
-Second project in Udacity’s Full Stack Nanodegree. The assignment consists in building an internal reporting tool for a fictitious newspaper site. Students should use information from a previously configured database to discover what kind of articles the site's readers like.
+Third project in Udacity’s Full Stack Nanodegree. The assignment consists in building an internal reporting tool for a fictitious newspaper site. Students should use information from a previously configured database to discover what kind of articles the site's readers like.
+
 
 ### Goals
 Using SQL queries, students must answer the following three questions:
@@ -20,6 +21,7 @@ Using SQL queries, students must answer the following three questions:
 * The project makes use of a Linux-based virtual machine (VM).
 
 
+
 ## Getting Started
 ### Pre-requisites
 * Python3
@@ -27,12 +29,13 @@ Using SQL queries, students must answer the following three questions:
 * Vagrant
 
 
+
 ### Setup
 1. Install VirtualBox. Download it [here](https://www.virtualbox.org/wiki/Downloads).
 2. Install Vagrant. Download it [here](https://www.vagrantup.com/downloads.html).
 3. Fork then clone [fullstack-nanodegree-vm](https://github.com/udacity/fullstack-nanodegree-vm) repository.
 4. Next, [download the data here](https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip) and unzip it.
-5. Fork then clone this current repository and move it into the previously cloned _fullstack-nanodegree-vm/vagrant_ subdirectory , together with the _newsdata.sql_ file.
+5. Fork then clone this current repository and move it into the previously cloned _fullstack-nanodegree-vm/vagrant_ subdirectory, together with the _newsdata.sql_ file.
 
 
 ### Firing up the Virtual Machine
