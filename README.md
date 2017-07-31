@@ -66,7 +66,7 @@ Finally, from the vagrant subdirectory — within the Linux virtual machine — 
 python newsdb.py
 ```
  
-**And that’s it!**
+**And that’s it!!!**
 
 
 ## Created VIEWS
